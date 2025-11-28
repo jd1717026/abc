@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
 
   /* config options here */
   reactCompiler: true,
-  basePath: '/Tadaaa',
+  basePath: '/abc',
 };
 
 export default nextConfig;
