@@ -7,7 +7,7 @@ Install dependencies / libraries:
 ```bash
 npm ci
 ```
-
+ 
 Then run the frontend...
 
 ## How do I run it?
